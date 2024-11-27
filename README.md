@@ -1,11 +1,9 @@
 # Vexillium  - A Battle Strategy Game ⚔️🛡️🔥
 
-<br>
 
 ## Overview  
 *Vexillium* is a battle strategy game between a human player and AI. The goal is to outmaneuver your opponent and capture their flag. The game challenges players with strategic troop placement, resource management, and combat while providing adaptive AI with multiple difficulty levels.
 
-<br>
 
 ## Features 
 - **Grid-Based Gameplay:** A 15x10 grid where troops are placed and move towards targets.
@@ -60,6 +58,7 @@
 ### 4. Winning the Game:
 
 - Capture the opponent’s flag by reaching it with your troop.
+
 
 ## AI Overview  
 
